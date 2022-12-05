@@ -2,7 +2,7 @@ const products = [
     {
         id:1,
         name: 'Black Coffee',
-        desc: '',
+        desc: 'Dark coffee brewed from 100% kenyan coffee berries',
         price: 250,
         image: "https://res.cloudinary.com/dbgbail9r/image/upload/v1670145976/tamu_foods_react_redux/black-coffee_pn1lwt.jpg"
     },
